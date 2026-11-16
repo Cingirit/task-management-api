@@ -1,0 +1,18 @@
+[
+  {
+    "firstName": "Furkan",
+    "lastName": "Cingirit",
+    "department": "IT",
+    "position": "Developer",
+    "email": "furkan.cingirit@example.com",
+    "id": 1
+  },
+  {
+    "firstName": "Mahmut",
+    "lastName": "Çınar",
+    "department": "Software Development",
+    "position": "Backend Developer",
+    "email": "mahmut@example.com",
+    "id": 2
+  }
+]
